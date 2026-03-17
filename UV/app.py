@@ -1,5 +1,3 @@
- 
-
 
 import streamlit as st
 import pandas as pd
@@ -212,12 +210,11 @@ elif option == "📍 Location Finder":
                 with st.expander("🔍 View Raw Location Data"):
                     st.json(result["raw_data"])
 
+
+
 # ------------------------------------------------------
 # SEARCH SECTION
 # ------------------------------------------------------
-
-
-
 
 elif option == "🔎 DuckDuckGo Search":
 
