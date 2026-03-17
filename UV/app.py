@@ -9,7 +9,7 @@ from services.search import search_duckduckgo
 st.set_page_config(
     page_title="Python Utility Dashboard",
     page_icon="🚀",
-    layout="wide"
+    layout="centered"
 )
 
 st.markdown("""
