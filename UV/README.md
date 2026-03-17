@@ -8,7 +8,7 @@
 
 ## Stack
 - Frontend - Streamlit Python
-- Backend logic - Scripts (<a href="https://github.com/coderujwal3/Python-Scripting-Project">Got from Friend</a>)
+- Backend logic - Scripts (<a href="https://github.com/coderujwal3/Python-Scripting-Projects.git">Got from Friend</a>)
 
 ### collaborations
 ## Contributors
