@@ -1,5 +1,0 @@
-streamlit
-requests
-geopy==4.3.0
-duckduckgo-search
-python-dotenv
